@@ -110,7 +110,7 @@ pip install notebook
 
 ### Training Steps
 
-1. Open the trainGAN.ipynb notebook
+1. Open the `trainGAN.ipynb` notebook
 
 2. Follow the steps in the notebook to:
 
